@@ -1,0 +1,2 @@
+# Primer.repositoriogit
+Nada
